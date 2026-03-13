@@ -1,0 +1,3 @@
+# Secrets - never commit these
+*.swp
+.DS_Store
